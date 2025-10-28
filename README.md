@@ -2,8 +2,7 @@
 
 If you find my work on this project helpful, please consider supporting me through a donation:
 
-- [GitHub Sponsor](https://github.com/sponsors/mvimal2607)  
-- [PayPal](http://paypal.me/Vimal2607)  
+- [GitHub Sponsor](https://github.com/sponsors/mvimal2607) 
 
 ### Why Donations Matter for AOSP Projects
 
